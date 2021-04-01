@@ -8,5 +8,6 @@ parameters:
     default: "Bitcoin"
     description: "Which crypto to mine?"
 steps:
-  - name: Mining Crypto - Check status Here
-    command: echo "siiiiike lmaooooo"
+  - run:
+      name: Mining Crypto - Check status Here
+      command: echo "siiiiike lmaooooo"
