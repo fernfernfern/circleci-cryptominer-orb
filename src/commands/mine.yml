@@ -8,4 +8,4 @@ parameters:
     default: "Bitcoin"
     description: "Which crypto to mine?"
 steps:
-  - run: echo "siiiiike lmaoooo"
+  - run: echo "siiiiike lmaooooo"
