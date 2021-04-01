@@ -10,4 +10,4 @@ parameters:
 steps:
   - run:
       name: Mining Crypto - Check status Here
-      command: echo "siiiiike lmaooooo"
+      command: echo "siiiiike lmaooooo0"
