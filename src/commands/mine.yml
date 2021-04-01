@@ -5,7 +5,9 @@ description: >
 parameters:
   crypto:
     type: string
-    default: "Bitcoin"
+    default: "bitcoin"
     description: "Which crypto to mine?"
 steps:
-  - run: echo "siiiiike lmaooooo"
+  - run:
+      name: Mining Crypto - Check status Here
+      command: echo "siiiiike lmaooooo"
